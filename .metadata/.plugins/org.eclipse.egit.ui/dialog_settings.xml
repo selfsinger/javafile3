@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/selfsinger/javaproject.git"/>
+		<item value="https://github.com/selfsinger/javafile.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="570,429"/>
+		<item key="sortItemState" value="true"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\acer\git\repository\.git">
+			<item value="false"/>
+			<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
+			<item value="this is first commit"/>
+			<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
+			<item value="4ed9984b3b6cf16ba65679e7564256ae57a199a9"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\Users\acer\git\javaproject\.git">
+			<item value="false"/>
+			<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
+			<item value="Sixth Commit"/>
+			<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
+			<item value="7fb032c5fdfd8ad7cdf39073be6be8b679a5327f"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>
