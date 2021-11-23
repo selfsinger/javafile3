@@ -24,7 +24,7 @@
 		<list key="C:\Users\acer\git\repository\.git">
 			<item value="false"/>
 			<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
-			<item value="this is first commit"/>
+			<item value="first assignments"/>
 			<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
 			<item value="4ed9984b3b6cf16ba65679e7564256ae57a199a9"/>
 			<item value="0"/>
@@ -33,11 +33,22 @@
 		<list key="C:\Users\acer\git\javaproject\.git">
 			<item value="false"/>
 			<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
-			<item value="Sixth Commit"/>
+			<item value="assignments"/>
 			<item value="selfsinger &lt;meghasv1234@gmail.com&gt;"/>
 			<item value="7fb032c5fdfd8ad7cdf39073be6be8b679a5327f"/>
 			<item value="0"/>
 			<item value="false"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="358"/>
+		<item key="DIALOG_Y_ORIGIN" value="67"/>
+		<item key="DIALOG_WIDTH" value="666"/>
+		<item key="DIALOG_HEIGHT" value="458"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
 		</list>
 	</section>
 </section>
