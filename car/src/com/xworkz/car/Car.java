@@ -2,9 +2,9 @@ package com.xworkz.car;
 
 public class Car {
  
-	public static String brand="BMW";
-	public static String carname="BMWM4";
-	int price=5000000;
+	public static  String brand="BMW";
+	public static  String carname="BMWM4";
+	int price=5000000; 
 	
 	public void method1()
 	{

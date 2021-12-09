@@ -20,10 +20,17 @@ public class Employee {
 	}
 	public void employee(int id,String name,String type,long phone)
 	{
+		System.out.println();
 		System.out.println(id);
 		System.out.println(name);
 		System.out.println(type);
 		System.out.println(phone);
+		System.out.println();
+		System.out.println(this.id);
+		System.out.println(this.name);
+		System.out.println(this.type);
+		System.out.println(this.phone);
+		
 		
 		
 	}
