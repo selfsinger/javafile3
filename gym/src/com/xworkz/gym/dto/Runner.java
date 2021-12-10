@@ -30,15 +30,7 @@ public class Runner {
 		System.out.println(dto.getVender());
 		System.out.println();
 		
-		dto.setBranchName("rajaji");
-		System.out.println(dto.getGymId());
-		System.out.println(dto.getCustId());
-		System.out.println(dto.getNoOfDumbals());
-		System.out.println(dto.getNoOfFlexbench());
-		System.out.println(dto.getBranchName());
-		System.out.println(dto.getVender());
-		
-		dto.setGymId(4);
+		dto1.setGymId(4);
 		System.out.println(dto1.getGymId());
 		System.out.println(dto1.getCustId());
 		System.out.println(dto1.getNoOfDumbals());
